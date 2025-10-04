@@ -14,8 +14,8 @@ Her problem sadece bir çözüm değil, aynı zamanda bir öğrenme deneyimi! Bu
 ## 📊 İstatistikler
 
 ```
-Toplam Çözülen Problem: 20
-Kolay: 8 | Orta: 10 | Zor: 2
+Toplam Çözülen Problem: 21
+Kolay: 9 | Orta: 10 | Zor: 2
 Kullanılan Diller: C++, Python
 ```
 
@@ -74,6 +74,7 @@ Kullanılan Diller: C++, Python
 |---------|--------|--------|-----|-------------|
 | [2. Add Two Numbers](Problems/001-100/02.py) | Orta | Linked List Traversal | Python | O(max(m,n)) |
 | [19. Remove Nth Node From End](Problems/001-100/19-Remove%20Nth%20Node%20From%20End%20of%20List.cpp) | Orta | Two Pointers | C++ | O(L) |
+| [21. Merge Two Sorted Lists](Problems/001-100/21-Merge%20Two%20Sorted%20Lists.cpp) | Kolay | Dummy Node + Merge | C++ | O(m+n) |
 
 ### 🎯 **Backtracking & Recursion**
 | Problem | Zorluk | Teknik | Dil | Karmaşıklık |
