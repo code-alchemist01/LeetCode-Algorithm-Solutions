@@ -43,11 +43,7 @@ Zaman Karmaşıklığı: O(N^(T/M)) - N: candidates sayısı, T: target, M: mini
 Alan Karmaşıklığı: O(T/M) - recursion depth
 */
 
-#include <iostream>
-#include <vector>
-#include <algorithm>
 
-using namespace std;
 
 // En Optimize Çözüm: Backtracking with Pruning
 class Solution {
