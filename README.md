@@ -14,8 +14,8 @@ Her problem sadece bir çözüm değil, aynı zamanda bir öğrenme deneyimi! Bu
 ## 📊 İstatistikler
 
 ```
-Toplam Çözülen Problem: 40
-Kolay: 14 | Orta: 24 | Zor: 2
+Toplam Çözülen Problem: 50
+Kolay: 16 | Orta: 31 | Zor: 3
 Kullanılan Diller: C++, Python
 ```
 
@@ -60,6 +60,9 @@ Kullanılan Diller: C++, Python
 | [34. Find First and Last Position](Problems/001-100/34-Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.cpp) | Orta | Binary Search | C++ | O(log n) |
 | [35. Search Insert Position](Problems/001-100/35-Search%20Insert%20Position.cpp) | Kolay | Binary Search | C++ | O(log n) |
 | [36. Valid Sudoku](Problems/001-100/36-Valid%20Sudoku.cpp) | Orta | Hash Set Validation | C++ | O(1) |
+| [41. First Missing Positive](Problems/001-100/41-First%20Missing%20Positive.cpp) | Zor | Cyclic Sort | C++ | O(n) |
+| [42. Trapping Rain Water](Problems/001-100/42-Trapping%20Rain%20Water.cpp) | Zor | Two Pointers | C++ | O(n) |
+| [48. Rotate Image](Problems/001-100/48-Rotate%20Image.cpp) | Orta | Transpose + Reverse | C++ | O(n²) |
 
 ### 🔤 **String Processing**
 | Problem | Zorluk | Teknik | Dil | Karmaşıklık |
@@ -73,6 +76,9 @@ Kullanılan Diller: C++, Python
 | [30. Substring with Concatenation](Problems/001-100/30-Substring%20with%20Concatenation%20of%20All%20Words.cpp) | Zor | Sliding Window + Hash | C++ | O(n×m×k) |
 | [32. Longest Valid Parentheses](Problems/001-100/32-Longest%20Valid%20Parentheses.cpp) | Zor | Dynamic Programming | C++ | O(n) |
 | [38. Count and Say](Problems/001-100/38-Count%20and%20Say.cpp) | Orta | String Building | C++ | O(n×m) |
+| [43. Multiply Strings](Problems/001-100/43-Multiply%20Strings.cpp) | Orta | String Multiplication | C++ | O(m×n) |
+| [44. Wildcard Matching](Problems/001-100/44-Wildcard%20Matching.cpp) | Zor | Dynamic Programming | C++ | O(m×n) |
+| [49. Group Anagrams](Problems/001-100/49-Group%20Anagrams.cpp) | Orta | HashMap + Sorting | C++ | O(n×k×log k) |
 
 ### 🔢 **Mathematical & Logic**
 | Problem | Zorluk | Teknik | Dil | Karmaşıklık |
@@ -82,6 +88,8 @@ Kullanılan Diller: C++, Python
 | [12. Integer to Roman](Problems/001-100/12-Integer%20to%20Roman.cpp) | Orta | Greedy Algorithm | C++ | O(1) |
 | [13. Roman to Integer](Problems/001-100/13-Roman%20to%20Integer.cpp) | Kolay | Pattern Recognition | C++ | O(n) |
 | [29. Divide Two Integers](Problems/001-100/29-Divide%20Two%20Integers.cpp) | Orta | Bit Manipulation | C++ | O(log n) |
+| [45. Jump Game II](Problems/001-100/45-Jump%20Game%20II.cpp) | Orta | Greedy BFS | C++ | O(n) |
+| [50. Pow(x, n)](Problems/001-100/50-Pow(x,%20n).cpp) | Orta | Fast Exponentiation | C++ | O(log n) |
 
 ### 🔗 **Linked List Operations**
 | Problem | Zorluk | Teknik | Dil | Karmaşıklık |
@@ -101,6 +109,8 @@ Kullanılan Diller: C++, Python
 | [37. Sudoku Solver](Problems/001-100/37-Sudoku%20Solver.cpp) | Zor | Backtracking + Constraint | C++ | O(9^(n×n)) |
 | [39. Combination Sum](Problems/001-100/39-Combination%20Sum.cpp) | Orta | Backtracking + Pruning | C++ | O(N^(T/M)) |
 | [40. Combination Sum II](Problems/001-100/40-Combination%20Sum%20II.cpp) | Orta | Backtracking + Duplicate Skip | C++ | O(2^N) |
+| [46. Permutations](Problems/001-100/46-Permutations.cpp) | Orta | Backtracking + Swap | C++ | O(n! × n) |
+| [47. Permutations II](Problems/001-100/47-Permutations%20II.cpp) | Orta | Backtracking + Duplicate Handle | C++ | O(n! × n) |
 
 ### 🔍 **Advanced Pattern Matching**
 | Problem | Zorluk | Teknik | Dil | Karmaşıklık |
